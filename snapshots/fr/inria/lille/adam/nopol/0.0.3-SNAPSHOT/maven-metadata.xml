@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.inria.lille.adam</groupId>
+  <artifactId>nopol</artifactId>
+  <version>0.0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160408.150047</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160408150047</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.3-20160408.150047-1</value>
+        <updated>20160408150047</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.3-20160408.150047-1</value>
+        <updated>20160408150047</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
