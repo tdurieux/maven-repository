@@ -4,7 +4,7 @@ Maven repository
 ```xml
 <repository>
     <id>codedance on Github</id>
-    <url>https://github.com/tdurieux/maven-repository/raw/master</url>
+    <url>https://tdurieux.github.io/maven-repository/</url>
 </repository>
 ```
 
