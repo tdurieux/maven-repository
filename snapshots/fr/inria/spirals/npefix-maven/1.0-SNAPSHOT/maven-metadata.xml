@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.inria.spirals</groupId>
+  <artifactId>npefix-maven</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170712.103533</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170712103533</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20170712.103533-1</value>
+        <updated>20170712103533</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20170712.103533-1</value>
+        <updated>20170712103533</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
