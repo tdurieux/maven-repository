@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.inria.gforge.spirals</groupId>
+  <artifactId>npefix-maven</artifactId>
+  <versioning>
+    <latest>1.2-SNAPSHOT</latest>
+    <versions>
+      <version>1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170720070631</lastUpdated>
+  </versioning>
+</metadata>
