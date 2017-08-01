@@ -3,11 +3,12 @@
   <groupId>fr.inria.spirals</groupId>
   <artifactId>npefix</artifactId>
   <versioning>
-    <release>0.5-SNAPTSHOT</release>
+    <release>0.5</release>
     <versions>
       <version>0.4</version>
       <version>0.5-SNAPTSHOT</version>
+      <version>0.5</version>
     </versions>
-    <lastUpdated>20170712131653</lastUpdated>
+    <lastUpdated>20170801075621</lastUpdated>
   </versioning>
 </metadata>
