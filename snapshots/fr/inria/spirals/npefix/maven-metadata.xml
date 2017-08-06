@@ -4,10 +4,8 @@
   <artifactId>npefix</artifactId>
   <versioning>
     <versions>
-      <version>0.4-SNAPSHOT</version>
-      <version>0.5-SNAPSHOT</version>
       <version>0.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170806131545</lastUpdated>
+    <lastUpdated>20170806133858</lastUpdated>
   </versioning>
 </metadata>
