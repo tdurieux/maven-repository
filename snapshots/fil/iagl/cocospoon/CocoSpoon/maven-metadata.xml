@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fil.iagl.cocospoon</groupId>
+  <artifactId>CocoSpoon</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171121153200</lastUpdated>
+  </versioning>
+</metadata>

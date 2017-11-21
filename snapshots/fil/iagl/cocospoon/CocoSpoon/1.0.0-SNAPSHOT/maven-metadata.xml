@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fil.iagl.cocospoon</groupId>
+  <artifactId>CocoSpoon</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20171121.153200</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20171121153200</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20171121.153200-1</value>
+        <updated>20171121153200</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20171121.153200-1</value>
+        <updated>20171121153200</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20171121.153200-1</value>
+        <updated>20171121153200</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
