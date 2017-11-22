@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fr.inria.gforge.spirals</groupId>
+  <artifactId>repair-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.4-SNAPSHOT</latest>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171122101410</lastUpdated>
+  </versioning>
+</metadata>
