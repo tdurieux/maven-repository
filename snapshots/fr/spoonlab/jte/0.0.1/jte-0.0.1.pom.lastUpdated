@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 22 10:54:37 CET 2017
+http\://spoon.gforge.inria.fr/repositories/snapshots/.error=
+http\://sachaproject.gforge.inria.fr/repositories/releases/.error=
+http\://sachaproject.gforge.inria.fr/repositories/releases/.lastUpdated=1511344477168
+http\://spoon.gforge.inria.fr/repositories/releases/.error=
+http\://spoon.gforge.inria.fr/repositories/releases/.lastUpdated=1511344476747
+http\://www.evosuite.org/m2/.lastUpdated=1511344477325
+http\://spoon.gforge.inria.fr/repositories/snapshots/.lastUpdated=1511344476871
+http\://www.evosuite.org/m2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1511344477456
+https\://repo.maven.apache.org/maven2/.error=
