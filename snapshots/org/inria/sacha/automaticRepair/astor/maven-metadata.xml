@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.inria.sacha.automaticRepair</groupId>
+  <artifactId>astor</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171122100010</lastUpdated>
+  </versioning>
+</metadata>
