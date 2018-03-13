@@ -3,10 +3,10 @@
   <groupId>fr.inria.gforge.spirals</groupId>
   <artifactId>nopol</artifactId>
   <versioning>
-    <release>cede74c7247ab1b6322f32a2665c7974120d6089</release>
+    <release>4613b76307ffa6812b699f8740c1bf81e550ffc0</release>
     <versions>
-      <version>cede74c7247ab1b6322f32a2665c7974120d6089</version>
+      <version>4613b76307ffa6812b699f8740c1bf81e550ffc0</version>
     </versions>
-    <lastUpdated>20180311173537</lastUpdated>
+    <lastUpdated>20180313105559</lastUpdated>
   </versioning>
 </metadata>
