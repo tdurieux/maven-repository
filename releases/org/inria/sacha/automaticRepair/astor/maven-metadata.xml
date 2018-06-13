@@ -3,10 +3,10 @@
   <groupId>org.inria.sacha.automaticRepair</groupId>
   <artifactId>astor</artifactId>
   <versioning>
-    <release>7969bc3eb601d235db3b230b4f1dda804de55bca</release>
+    <release>62318e40db514c1846e081537079153b74e1fc4e</release>
     <versions>
-      <version>7969bc3eb601d235db3b230b4f1dda804de55bca</version>
+      <version>62318e40db514c1846e081537079153b74e1fc4e</version>
     </versions>
-    <lastUpdated>20180613115141</lastUpdated>
+    <lastUpdated>20180613124354</lastUpdated>
   </versioning>
 </metadata>
