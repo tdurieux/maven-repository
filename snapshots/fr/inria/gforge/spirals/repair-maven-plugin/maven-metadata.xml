@@ -3,10 +3,10 @@
   <groupId>fr.inria.gforge.spirals</groupId>
   <artifactId>repair-maven-plugin</artifactId>
   <versioning>
-    <latest>1.5-SNAPSHOT</latest>
+    <latest>1.6-SNAPSHOT</latest>
     <versions>
-      <version>1.5-SNAPSHOT</version>
+      <version>1.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180807085542</lastUpdated>
+    <lastUpdated>20180807090054</lastUpdated>
   </versioning>
 </metadata>
