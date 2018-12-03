@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Plugin to Automatically Fix failing test with</name>
+      <prefix>repair</prefix>
+      <artifactId>project-config-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
